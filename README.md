@@ -18,7 +18,7 @@ NodeX is an advanced Python-based terminal with a customizable interface, built-
 ## Installation
 
 ```
-git clone https://github.com/yourusername/nodex.git
+git clone https://github.com/ArtemGD011/nodex.git
 cd nodex
 python test.py
 ```
